@@ -1,39 +1,42 @@
-# Udacity-Write-a-Data-Science-Blog-Post-master
-The dataset of players of FIFA-2019 has been analysed to provide business solution.
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+# Udacity-Write-a-Data-Science-Blog- FIFA 2019
+A Udacity Data Scientist Nanodegree Project. The dataset of players of FIFA-2019 has been analysed to provide various business solution for club managers and fans. The dataset was downlaoded from Kaggle.
+
+### Overview
+
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
+
+## Installation <a name="installation"></a>.
+The Anaconda distribution of Python is sufficient.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using FIFA 18 Complete Player Dataset to better understand:
+The project is a part of Udacity Nanodegree Program for Machine Learning. Being a Soccer fan, I was excited to analyse FIFA-2019 complete players dataset to conclude certain queries arose in my mind:
 
-Question 1: Which Nation has most number of Soccer Players collected in FIFA 18, list the top 20 Nations
+Question 1:  List of 25 nations in Decending Order, having more number of Soccer Players according the latest FIFA-2019 datasets available on the Kaggle website.
 
-Question 2: How about the age distribution of the FIFA 18 Players?
+Question 2: Listing 10 clubs in descending order, with the highest total player market value and the highest average player wage
 
-Question 3: Find out the top 10 clubs with highest total player market value, and the highest average player wage
+Question 3: AGE-WISE distribution of the players present in FIFA-2019.
 
-Question 4: Choose the best squad
+Question 4: Selection of the best Squad according to the preferref position of the players.
 
-Question 5: Correlation between Age, Overall, Potential, Position, Club, Nationality, Special vs Value/Wage
+Question 5: Finding the correlation between features such as Age, Overall, Potential, Position, Club, Nationality, Special vs Value/Wage.
 
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 notebooks available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells & comments were used to assist in walking through the thought process for individual steps.
+1 notebook file (.ipynb) - To showcase the work related to the above questions. Markdown cells & comments have been used to assist in understanding of the thought process of individual steps.
 
-PlayerAttributeData.csv       - This file contains Player performance attributes (Overall, Potential, Aggression, Agility etc.) indexed by player id.
-
-PlayerPersonalData.csv        - This file contains basic Player personal attributes (Nationality, Club, Photo, Age, Wage, Value etc.)
-
-PlayerPlayingPositionData.csv - This file contains Player preferred position and ratings at all positions.
-
-CompleteDataset.csv           - This file is the complete dataset contains all informaiton in above three dataset.
-
+data2019.csv           - This file is the complete dataset containing all the information about the players of FIFA-2019.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@haiqingzhou/fifa-18-complete-player-dataset-some-exploration-questions-2ccae897416a).
+The major findings of the work done and the questions answered can be found at the post available [here](https://medium.com/@haiqingzhou/fifa-18-complete-player-dataset-some-exploration-questions-2ccae897416a).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Aman Shrivastava & EA Sports for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset). Otherwise, feel free to use the code here as you would like! 
+Licensing for the dataset at the Kaggle link available [here](https://www.kaggle.com/karangadiya/fifa19). Codes written here can be used in any way as you like.
