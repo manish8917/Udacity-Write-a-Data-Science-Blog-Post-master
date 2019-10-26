@@ -35,7 +35,7 @@ data2019.csv           - This file is the complete dataset containing all th
 
 ## Results<a name="results"></a>
 
-The major findings of the work done and the questions answered can be found at the post available [here](https://medium.com/@haiqingzhou/fifa-18-complete-player-dataset-some-exploration-questions-2ccae897416a).
+The major findings of the work done and the questions answered can be found at the post available [here](https://medium.com/@manishislampur1988/know-all-about-fifa-2019-analysis-of-players-dataset-3d1e7576ad70).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
